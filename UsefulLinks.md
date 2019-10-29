@@ -45,6 +45,7 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 
 ## Other
 - Remote connection without passwd ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
+
 - Droppy for easy link in git
 - Edit pdf https://dochub.com/
 - Writing in terminal until a stopword `cat - <<EOF`
