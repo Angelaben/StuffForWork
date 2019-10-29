@@ -34,6 +34,8 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 
 - https://artisan.karma-lab.net/vim-plugins-indispensables
 - https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim
+- https://stackoverflow.com/questions/9549729/vim-insert-the-same-characters-across-multiple-lines
+- Use :help CMD
 
 ## Docker
 
@@ -42,7 +44,7 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 - The hyphen (-) takes the position of the PATH, and instructs Docker to read the build context (which only contains a Dockerfile) from stdin instead of a directory (is it the same with `cat` ?)
 
 ## Other
-
+- Remote connection without passwd ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
 - Droppy for easy link in git
 - Edit pdf https://dochub.com/
 - Writing in terminal until a stopword `cat - <<EOF`
