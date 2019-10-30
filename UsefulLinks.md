@@ -47,6 +47,8 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 - Remote connection without passwd ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
 
 - Droppy for easy link in git
+- Profiler : cprofile for python, nvvp for cuda
+- Optimize pytorch : Torchscript
 - Edit pdf https://dochub.com/
 - Writing in terminal until a stopword `cat - <<EOF`
 - Cool theme for ohmyzsh: refined
