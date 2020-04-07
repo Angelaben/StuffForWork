@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/workspace/thera/server/thera/python'
+let g:netrw_dirhist_2='/workspace/thera/server/thera/python/external_contour_seg'
+let g:netrw_dirhist_3='/workspace'
+let g:netrw_dirhist_4='/'

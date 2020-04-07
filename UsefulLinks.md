@@ -44,6 +44,7 @@ http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-c
 - The hyphen (-) takes the position of the PATH, and instructs Docker to read the build context (which only contains a Dockerfile) from stdin instead of a directory (is it the same with `cat` ?)
 
 ## Other
+
 - Remote connection without passwd ssh-copy-id -i ~/.ssh/id_rsa.pub remote-host
 
 - Droppy for easy link in git
@@ -80,3 +81,7 @@ RUN     wget http://wili.cc/blog/entries/gpu-burn/gpu_burn-1.0.tar.gz  && tar -x
 RUN ./gpu_burn 3
 EOF
 ```
+
+### Deep
+
+https://d2l.ai/chapter_attention-mechanisms/transformer.html
